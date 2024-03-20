@@ -1,4 +1,4 @@
-<html><head></head><body>body {
+body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
@@ -36,12 +36,10 @@
   border-radius: 5px;
 }
 
-/* Radio button styles */
 .radio-label {
   margin-right: 20px;
 }
 
-/* Button group styles */
 .button-group {
   display: flex;
   flex-wrap: wrap;
@@ -83,4 +81,3 @@ textarea {
 .checkbox-label input {
   margin-right: 10px;
 }
-</body></html>
